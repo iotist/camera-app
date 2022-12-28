@@ -1,2 +1,2 @@
-# kii-camera-test
+# camera-app-test
 Just for fun
